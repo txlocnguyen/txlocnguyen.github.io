@@ -1,5 +1,7 @@
 @charset "UTF-8";
-
+#loc-logo{
+  border-radius: 50%;
+}
 section {
   background-color: #ffffff;
 }
