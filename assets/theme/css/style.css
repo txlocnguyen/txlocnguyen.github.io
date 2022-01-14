@@ -8,7 +8,10 @@ section {
   color: #3d84ff;
   font-weight: bolder;
 }
-
+#signature{
+  width: 40%;
+  height: auto;
+}
 #smaller-text {
   font-size: 0.75em;
   font-weight: bolder;
