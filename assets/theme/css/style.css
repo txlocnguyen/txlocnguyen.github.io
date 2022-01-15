@@ -18,6 +18,15 @@ section {
   height: auto;
 }
 
+.signature-2 {
+  width: 15%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -25px;
+}
+
 #smaller-text {
   font-size: 0.75em;
   font-weight: bolder;
