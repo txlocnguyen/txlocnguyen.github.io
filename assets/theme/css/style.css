@@ -1,7 +1,9 @@
 @charset "UTF-8";
-#loc-logo{
+
+#loc-logo {
   border-radius: 50%;
 }
+
 section {
   background-color: #ffffff;
 }
@@ -10,21 +12,26 @@ section {
   color: #3d84ff;
   font-weight: bolder;
 }
-#signature{
+
+#signature {
   width: 40%;
   height: auto;
 }
+
 #smaller-text {
   font-size: 0.75em;
   font-weight: bolder;
 }
-#my-skills{
-  margin-top: 30px;
+
+#my-skills {
+  padding-top: 30px;
 }
-.skill-logo{
+
+.skill-logo {
   height: 75px;
   width: auto;
 }
+
 body {
   font-style: normal;
   line-height: 1.5;
