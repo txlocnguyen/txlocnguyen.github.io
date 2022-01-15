@@ -18,7 +18,13 @@ section {
   font-size: 0.75em;
   font-weight: bolder;
 }
-
+#my-skills{
+  margin-top: 30px;
+}
+.skill-logo{
+  height: 75px;
+  width: auto;
+}
 body {
   font-style: normal;
   line-height: 1.5;
