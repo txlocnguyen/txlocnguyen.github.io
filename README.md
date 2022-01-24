@@ -1,2 +1,2 @@
-# <a href="https://txlocnguyen.netlify.app/">Portfolio</a>
-<a href="https://txlocnguyen.netlify.app/">My portfolio Page</a>
+# <a href="https://txlocnguyen.github.io/">Portfolio</a>
+<a href="https://txlocnguyen.github.io/">Click here to view</a>
