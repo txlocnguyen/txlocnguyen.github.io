@@ -12,12 +12,15 @@ section {
   color: #3d84ff;
   font-weight: bolder;
 }
-.typed-cursor{
+
+.typed-cursor {
   color: #3d84ff;
 }
-#about-me .typed-cursor{
+
+#about-me .typed-cursor {
   color: black;
 }
+
 #signature {
   width: 40%;
   height: auto;
