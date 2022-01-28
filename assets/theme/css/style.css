@@ -17,6 +17,44 @@ section {
   color: #3d84ff;
 }
 
+.animate-text {
+  overflow: hidden;
+}
+
+.animate-text span {
+  display: none;
+}
+
+span.text-in {
+  display: inline-block;
+  animation: textIn .5s ease;
+}
+
+span.text-out {
+  animation: textOut .5s ease;
+}
+
+@keyframes textIn {
+  0% {
+    transform: translateY(100%);
+  }
+
+  100% {
+    transform: translateY(0%);
+  }
+}
+
+@keyframes textOut {
+  0% {
+    transform: translateY(0%);
+  }
+
+  100% {
+    transform: translateY(-100%);
+
+  }
+}
+
 #about-me .typed-cursor {
   color: black;
 }
