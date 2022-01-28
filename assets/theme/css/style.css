@@ -12,7 +12,9 @@ section {
   color: #3d84ff;
   font-weight: bolder;
 }
-
+.typed-cursor{
+  color: #3d84ff;
+}
 #signature {
   width: 40%;
   height: auto;
